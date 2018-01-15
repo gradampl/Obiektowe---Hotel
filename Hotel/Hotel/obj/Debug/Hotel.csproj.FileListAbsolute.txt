@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.pdb
